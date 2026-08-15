@@ -9,6 +9,7 @@
 | [0118-pascals-triangle](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0867-transpose-matrix) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0704-binary-search) |
 ## String
@@ -84,8 +86,21 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
