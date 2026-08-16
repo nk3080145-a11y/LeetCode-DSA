@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0118-pascals-triangle) |
@@ -83,6 +84,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0645-set-mismatch) |
