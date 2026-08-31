@@ -115,4 +115,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
