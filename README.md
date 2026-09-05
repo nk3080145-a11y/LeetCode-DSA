@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
