@@ -26,18 +26,10 @@ class Solution {
                 temp2 = temp2.next;
             }
         }
-        if(temp1==null){
-            while(temp2!=null){
-                temp.next = temp2;
-                temp = temp2;
-                temp2 = temp2.next;
-            }
-        }else if(temp2==null){
-            while(temp1!=null){
-                temp.next = temp1;
-                temp = temp1;
-                temp1 = temp1.next;
-            }
+        if (temp1 != null) {
+            temp.next = temp1;
+        } else {
+            temp.next = temp2;
         }
         return dummy.next;
     }
