@@ -133,6 +133,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0086-partition-list) |
@@ -145,4 +146,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
