@@ -118,6 +118,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -143,10 +144,15 @@
 | [0206-reverse-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
