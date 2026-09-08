@@ -35,13 +35,12 @@ class Solution {
         head2 = reverse(head2);
         ListNode i = head;
         ListNode j = head2;
-
-        ArrayList<Integer> arr = new ArrayList<>();
+        int sum = -1;
         while(i!=null && j!=null){
-            arr.add(i.val+j.val);
+            if(sum<i.val+j.val) sum = i.val+j.val;
             i = i.next;
             j = j.next;
         }
-        return Collections.max(arr);
+        return sum;
     }
 }
