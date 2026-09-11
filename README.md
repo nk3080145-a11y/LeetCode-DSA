@@ -64,6 +64,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -76,6 +77,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -134,6 +136,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -155,4 +158,12 @@
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
