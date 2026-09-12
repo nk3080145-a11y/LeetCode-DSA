@@ -31,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0268-missing-number) |
@@ -134,6 +135,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
@@ -151,6 +153,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
