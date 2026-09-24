@@ -16,6 +16,7 @@
 | [0493-reverse-pairs](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0867-transpose-matrix) |
 ## Matrix
@@ -27,6 +28,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
@@ -161,6 +163,7 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
