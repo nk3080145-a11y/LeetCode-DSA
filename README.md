@@ -153,6 +153,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -160,11 +161,13 @@
 | [0021-merge-two-sorted-lists](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -181,4 +184,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
