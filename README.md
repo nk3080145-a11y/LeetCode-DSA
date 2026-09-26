@@ -14,6 +14,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0682-baseball-game) |
@@ -165,6 +166,7 @@
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
@@ -187,5 +189,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
