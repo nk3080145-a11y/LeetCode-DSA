@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0268-missing-number) |
@@ -167,6 +168,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -191,7 +193,12 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
