@@ -20,6 +20,7 @@
 | [0682-baseball-game](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0867-transpose-matrix) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Matrix
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
@@ -190,5 +192,6 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
