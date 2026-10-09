@@ -169,6 +169,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -201,4 +202,12 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
