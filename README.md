@@ -186,6 +186,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0112-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -210,4 +211,16 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
