@@ -218,6 +218,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0112-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -229,10 +230,12 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0112-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nk3080145-a11y/LeetCode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
